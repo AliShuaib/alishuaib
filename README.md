@@ -4,9 +4,9 @@
 
 ## Hi there, I'm Ali Shuaib 👋
 
-I've enjoyed web development to build solutions for real-world problems using code for over 5 years now. I started off building games and discord bots in Python, and now I'm using Typescript with React/NextJS to build full stack applications. Thank god TypeScript exists, its saving lives 😆
+I've enjoyed using web development to build solutions for real-world problems for over 5 years now. I started off building platformer games and discord bots in Python, and now I'm using Typescript with React/NextJS to build full stack applications. Thank god TypeScript exists, its saving lives 😆
 
-I'm currently working on a LMS Assistant called [Orbite](https://gamejolt.com/games/SkyCrest/350478) to help improve online learning experience. I've also worked on a collaborative map called [NGS Live Map](https://github.com/alishuaib/ngslivemap) to help the community of Phantasy Star Online 2: New Genesis.
+I'm currently working on a LMS Assistant called [Orbite](https://gamejolt.com/games/SkyCrest/350478) to help improve online learning experience. I've also worked on [NGS Live Map](https://github.com/alishuaib/ngslivemap) to help the community of Phantasy Star Online 2: New Genesis collaboratively build a publicly accessible map.
 
 These days I'm introducing highschool students how to code as a part-time online highschool teacher for ICS3U and ICS4U.
 
@@ -47,6 +47,14 @@ If you're hiring, lets chat!
 -   🔗[LinkedIn](https://www.linkedin.com/in/ali-shuaib/)
 -   📁[Resume]()
 
-<div style="width: 100%;">
-  <img src="contact.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%;display:flex;justify-content: space-between;gap:7em;">
+<a href="mailto:alishuaib2001as@gmail.com">
+  <img src="card_email.svg" alt="Click to see the source">
+</a>
+<a href="https://www.linkedin.com/in/ali-shuaib/">
+  <img src="card_linkedin.svg" alt="Click to see the source">
+</a>
+<a href="">
+  <img src="card_resume.svg" alt="Click to see the source">
+</a>
 </div>
