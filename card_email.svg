@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395" height="395" viewBox="0 0 395 395">
+  <g id="Email_Card" data-name="Email Card" transform="translate(-239 -990)">
+    <rect id="Rectangle_159" data-name="Rectangle 159" width="395" height="395" rx="15" transform="translate(239 990)" fill="#2c2c2c"/>
+    <g id="Rectangle_162" data-name="Rectangle 162" transform="translate(259 1010)" fill="#2c2c2c" stroke="#fdf8db" stroke-width="7">
+      <rect width="355" height="355" rx="15" stroke="none"/>
+      <rect x="3.5" y="3.5" width="348" height="348" rx="11.5" fill="none"/>
+    </g>
+    <text id="_" data-name="@" transform="translate(489 1310)" fill="#fdf8db" font-size="101" font-family="Minecraft" letter-spacing="0.108em"><tspan x="0" y="0">@</tspan></text>
+    <text id="Email" transform="translate(289 1085)" fill="#fdf8db" font-size="60" font-family="Minecraft" letter-spacing="0.108em"><tspan x="0" y="0">Email</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(7 -6)">
+      <path id="Union_1" data-name="Union 1" d="M7.215,29V27.525h-1.2V26.051H4.57V24.576H2.886V21.627h-1.2V20.153H0V17.2H2.886v1.474H4.57v1.475H6.013V8.11H8.9V18.678h1.443V14.008h2.886v4.669h1.443V15.483h1.443v4.669h1.443V16.958H19v9.093H17.557v1.474H16.114V29ZM.962,12.534V11.059H2.405v1.475Zm1.443-1.475V9.585H3.848v1.475Zm7.937-3.441V6.144h3.126V7.619ZM0,7.619V6.144H3.126V7.619ZM9.62,3.932V2.458h1.443V3.932Zm-7.215,0V2.458H.962V.983H2.405V2.458H3.848V3.932Zm3.608-.737V0H7.456V3.195Zm5.051-.737V.983h1.443V2.458Z" transform="translate(367 1306)" fill="#fdf8db"/>
+      <text id="Click" transform="translate(282 1334)" fill="#fdf8db" font-size="28" font-family="Minecraft" letter-spacing="0.108em"><tspan x="0" y="0">Click</tspan></text>
+    </g>
+  </g>
+</svg>

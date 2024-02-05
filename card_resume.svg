@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395" height="395" viewBox="0 0 395 395">
+  <g id="Resume_Card" data-name="Resume Card" transform="translate(-239 -990)">
+    <rect id="Rectangle_159" data-name="Rectangle 159" width="395" height="395" rx="15" transform="translate(239 990)" fill="#2c2c2c"/>
+    <g id="Rectangle_162" data-name="Rectangle 162" transform="translate(259 1010)" fill="#2c2c2c" stroke="#fdf8db" stroke-width="7">
+      <rect width="355" height="355" rx="15" stroke="none"/>
+      <rect x="3.5" y="3.5" width="348" height="348" rx="11.5" fill="none"/>
+    </g>
+    <text id="Resume" transform="translate(289 1085)" fill="#fdf8db" font-size="60" font-family="Minecraft" letter-spacing="0.108em"><tspan x="0" y="0">Resume</tspan></text>
+    <g id="Document" transform="translate(-1040 1)">
+      <rect id="Rectangle_186" data-name="Rectangle 186" width="50" height="16" transform="translate(1539 1314)" fill="#fdf8db"/>
+      <rect id="Rectangle_187" data-name="Rectangle 187" width="50" height="4" transform="translate(1543 1330)" fill="#fdf8db"/>
+      <rect id="Rectangle_197" data-name="Rectangle 197" width="61" height="4" transform="translate(1555 1245)" fill="#fdf8db"/>
+      <rect id="Rectangle_199" data-name="Rectangle 199" width="8" height="4" transform="translate(1616 1249)" fill="#fdf8db"/>
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="8" height="4" transform="translate(1612 1268)" fill="#fdf8db"/>
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="12" height="15" transform="translate(1612 1253)" fill="#fdf8db"/>
+      <rect id="Rectangle_198" data-name="Rectangle 198" width="61" height="4" transform="translate(1551 1249)" fill="#fdf8db"/>
+      <rect id="Rectangle_188" data-name="Rectangle 188" width="8" height="4" transform="translate(1597 1330)" fill="#fdf8db"/>
+      <rect id="Rectangle_190" data-name="Rectangle 190" width="19" height="4" transform="translate(1589 1310)" fill="#fdf8db"/>
+      <rect id="Rectangle_191" data-name="Rectangle 191" width="57" height="61" transform="translate(1551 1249)" fill="#fdf8db"/>
+      <rect id="Rectangle_189" data-name="Rectangle 189" width="15" height="16" transform="translate(1593 1314)" fill="#fdf8db"/>
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="44" height="4" transform="translate(1558 1264)" fill="#2c2c2c"/>
+      <rect id="Rectangle_193" data-name="Rectangle 193" width="16" height="4" transform="translate(1558 1272)" fill="#2c2c2c"/>
+      <rect id="Rectangle_194" data-name="Rectangle 194" width="31" height="4" transform="translate(1558 1280)" fill="#2c2c2c"/>
+      <rect id="Rectangle_195" data-name="Rectangle 195" width="20" height="4" transform="translate(1558 1287)" fill="#2c2c2c"/>
+      <rect id="Rectangle_196" data-name="Rectangle 196" width="39" height="4" transform="translate(1558 1295)" fill="#2c2c2c"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(7 -6)">
+      <path id="Union_3" data-name="Union 3" d="M7.215,29V27.525h-1.2V26.051H4.57V24.576H2.886V21.627h-1.2V20.153H0V17.2H2.886v1.474H4.57v1.475H6.013V8.11H8.9V18.678h1.443V14.008h2.886v4.669h1.443V15.483h1.443v4.669h1.443V16.958H19v9.093H17.557v1.474H16.114V29ZM.962,12.534V11.059H2.405v1.475Zm1.443-1.475V9.585H3.848v1.475Zm7.937-3.441V6.144h3.126V7.619ZM0,7.619V6.144H3.126V7.619ZM9.62,3.932V2.458h1.443V3.932Zm-7.215,0V2.458H.962V.983H2.405V2.458H3.848V3.932Zm3.608-.737V0H7.456V3.195Zm5.051-.737V.983h1.443V2.458Z" transform="translate(367 1306)" fill="#fdf8db"/>
+      <text id="Click" transform="translate(282 1334)" fill="#fdf8db" font-size="28" font-family="Minecraft" letter-spacing="0.108em"><tspan x="0" y="0">Click</tspan></text>
+    </g>
+  </g>
+</svg>
