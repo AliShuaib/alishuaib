@@ -47,14 +47,14 @@ If you're hiring, lets chat!
 -   🔗[LinkedIn](https://www.linkedin.com/in/ali-shuaib/)
 -   📁[Resume]()
 
-<div style="width: 100%;display:flex;justify-content: space-between;gap:7em;">
+<div style="width: 100%;">
 <a href="mailto:alishuaib2001as@gmail.com">
-  <img src="card_email.svg" alt="Click to see the source">
+  <img src="card_email.svg" style="width: 33%;" alt="Click to see the source">
 </a>
 <a href="https://www.linkedin.com/in/ali-shuaib/">
-  <img src="card_linkedin.svg" alt="Click to see the source">
+  <img src="card_linkedin.svg" style="width: 33%;" alt="Click to see the source">
 </a>
 <a href="">
-  <img src="card_resume.svg" alt="Click to see the source">
+  <img src="card_resume.svg" style="width: 33%;" alt="Click to see the source">
 </a>
 </div>
