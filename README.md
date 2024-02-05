@@ -43,10 +43,6 @@ I'm currently on the lookout for a role as web developer, ideally working with J
 
 If you're hiring, lets chat!
 
--   📧[Email](mailto:alishuaib2001as@gmail.com)
--   🔗[LinkedIn](https://www.linkedin.com/in/ali-shuaib/)
--   📁[Resume]()
-
 <div style="width: 100%;">
 <a href="mailto:alishuaib2001as@gmail.com">
   <img src="card_email.svg" style="width: 33%;" alt="Click to see the source">
