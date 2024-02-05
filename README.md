@@ -50,7 +50,7 @@ If you're hiring, lets chat!
 <a href="https://www.linkedin.com/in/ali-shuaib/">
   <img src="card_linkedin.svg" style="width: 33%;" alt="Click to see the source">
 </a>
-<a href="https://github.com/alishuaib/alishuaib/blob/main/Ali-Shuaib.pdf">
+<a href="https://github.com/alishuaib/alishuaib/blob/main/Ali-Shuaib-Resume.pdf">
   <img src="card_resume.svg" style="width: 33%;" alt="Click to see the source">
 </a>
 </div>
