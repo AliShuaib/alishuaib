@@ -8,7 +8,7 @@ I've enjoyed using web development to build solutions for real-world problems fo
 
 I'm currently working on a LMS Assistant called [Orbite](https://gamejolt.com/games/SkyCrest/350478) to help improve online learning experience. I've also worked on [NGS Live Map](https://github.com/alishuaib/ngslivemap) to help the community of Phantasy Star Online 2: New Genesis collaboratively build a publicly accessible map.
 
-These days I'm introducing highschool students how to code as a part-time online highschool teacher for ICS3U and ICS4U.
+These days I'm introducing highschool students to coding as a part-time online highschool teacher for ICS3U and ICS4U (Canada CS courses).
 
 If you're interested in learning more about my full circle journey in development, check out the section below.
 
